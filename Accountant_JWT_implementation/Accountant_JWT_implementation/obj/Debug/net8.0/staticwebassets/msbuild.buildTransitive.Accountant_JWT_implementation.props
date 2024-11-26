@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Accountant_JWT_implementation.props" />
+</Project>

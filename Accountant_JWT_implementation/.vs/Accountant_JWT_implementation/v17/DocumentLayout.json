@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workkk\\Accountant Project\\Accountant_JWT_Auth\\Accountant_JWT_implementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA94B77-D945-4361-BD9F-39AB4FD56805}|Accountant_JWT_implementation\\Accountant_JWT_implementation.csproj|d:\\workkk\\accountant project\\accountant_jwt_auth\\accountant_jwt_implementation\\accountant_jwt_implementation\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA94B77-D945-4361-BD9F-39AB4FD56805}|Accountant_JWT_implementation\\Accountant_JWT_implementation.csproj|solutionrelative:accountant_jwt_implementation\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA94B77-D945-4361-BD9F-39AB4FD56805}|Accountant_JWT_implementation\\Accountant_JWT_implementation.csproj|d:\\workkk\\accountant project\\accountant_jwt_auth\\accountant_jwt_implementation\\accountant_jwt_implementation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA94B77-D945-4361-BD9F-39AB4FD56805}|Accountant_JWT_implementation\\Accountant_JWT_implementation.csproj|solutionrelative:accountant_jwt_implementation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA94B77-D945-4361-BD9F-39AB4FD56805}|Accountant_JWT_implementation\\Accountant_JWT_implementation.csproj|d:\\workkk\\accountant project\\accountant_jwt_auth\\accountant_jwt_implementation\\accountant_jwt_implementation\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA94B77-D945-4361-BD9F-39AB4FD56805}|Accountant_JWT_implementation\\Accountant_JWT_implementation.csproj|solutionrelative:accountant_jwt_implementation\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA94B77-D945-4361-BD9F-39AB4FD56805}|Accountant_JWT_implementation\\Accountant_JWT_implementation.csproj|d:\\workkk\\accountant project\\accountant_jwt_auth\\accountant_jwt_implementation\\accountant_jwt_implementation\\model\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA94B77-D945-4361-BD9F-39AB4FD56805}|Accountant_JWT_implementation\\Accountant_JWT_implementation.csproj|solutionrelative:accountant_jwt_implementation\\model\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA94B77-D945-4361-BD9F-39AB4FD56805}|Accountant_JWT_implementation\\Accountant_JWT_implementation.csproj|d:\\workkk\\accountant project\\accountant_jwt_auth\\accountant_jwt_implementation\\accountant_jwt_implementation\\model\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA94B77-D945-4361-BD9F-39AB4FD56805}|Accountant_JWT_implementation\\Accountant_JWT_implementation.csproj|solutionrelative:accountant_jwt_implementation\\model\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA94B77-D945-4361-BD9F-39AB4FD56805}|Accountant_JWT_implementation\\Accountant_JWT_implementation.csproj|d:\\workkk\\accountant project\\accountant_jwt_auth\\accountant_jwt_implementation\\accountant_jwt_implementation\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA94B77-D945-4361-BD9F-39AB4FD56805}|Accountant_JWT_implementation\\Accountant_JWT_implementation.csproj|solutionrelative:accountant_jwt_implementation\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA94B77-D945-4361-BD9F-39AB4FD56805}|Accountant_JWT_implementation\\Accountant_JWT_implementation.csproj|d:\\workkk\\accountant project\\accountant_jwt_auth\\accountant_jwt_implementation\\accountant_jwt_implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA94B77-D945-4361-BD9F-39AB4FD56805}|Accountant_JWT_implementation\\Accountant_JWT_implementation.csproj|solutionrelative:accountant_jwt_implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA94B77-D945-4361-BD9F-39AB4FD56805}|Accountant_JWT_implementation\\Accountant_JWT_implementation.csproj|d:\\workkk\\accountant project\\accountant_jwt_auth\\accountant_jwt_implementation\\accountant_jwt_implementation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EA94B77-D945-4361-BD9F-39AB4FD56805}|Accountant_JWT_implementation\\Accountant_JWT_implementation.csproj|solutionrelative:accountant_jwt_implementation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\workkk\\Accountant Project\\Accountant_JWT_Auth\\Accountant_JWT_implementation\\Accountant_JWT_implementation\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Accountant_JWT_implementation\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\workkk\\Accountant Project\\Accountant_JWT_Auth\\Accountant_JWT_implementation\\Accountant_JWT_implementation\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Accountant_JWT_implementation\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:32:09.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\workkk\\Accountant Project\\Accountant_JWT_Auth\\Accountant_JWT_implementation\\Accountant_JWT_implementation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Accountant_JWT_implementation\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\workkk\\Accountant Project\\Accountant_JWT_Auth\\Accountant_JWT_implementation\\Accountant_JWT_implementation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Accountant_JWT_implementation\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:29:54.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "D:\\workkk\\Accountant Project\\Accountant_JWT_Auth\\Accountant_JWT_implementation\\Accountant_JWT_implementation\\Services\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Accountant_JWT_implementation\\Services\\JwtTokenGenerator.cs",
+              "ToolTip": "D:\\workkk\\Accountant Project\\Accountant_JWT_Auth\\Accountant_JWT_implementation\\Accountant_JWT_implementation\\Services\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "Accountant_JWT_implementation\\Services\\JwtTokenGenerator.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvzMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:24:24.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workkk\\Accountant Project\\Accountant_JWT_Auth\\Accountant_JWT_implementation\\Accountant_JWT_implementation\\Program.cs",
+              "RelativeDocumentMoniker": "Accountant_JWT_implementation\\Program.cs",
+              "ToolTip": "D:\\workkk\\Accountant Project\\Accountant_JWT_Auth\\Accountant_JWT_implementation\\Accountant_JWT_implementation\\Program.cs",
+              "RelativeToolTip": "Accountant_JWT_implementation\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwDIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:18:41.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\workkk\\Accountant Project\\Accountant_JWT_Auth\\Accountant_JWT_implementation\\Accountant_JWT_implementation\\appsettings.json",
+              "RelativeDocumentMoniker": "Accountant_JWT_implementation\\appsettings.json",
+              "ToolTip": "D:\\workkk\\Accountant Project\\Accountant_JWT_Auth\\Accountant_JWT_implementation\\Accountant_JWT_implementation\\appsettings.json",
+              "RelativeToolTip": "Accountant_JWT_implementation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T20:17:28.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\workkk\\Accountant Project\\Accountant_JWT_Auth\\Accountant_JWT_implementation\\Accountant_JWT_implementation\\Model\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Accountant_JWT_implementation\\Model\\JwtSettings.cs",
+              "ToolTip": "D:\\workkk\\Accountant Project\\Accountant_JWT_Auth\\Accountant_JWT_implementation\\Accountant_JWT_implementation\\Model\\JwtSettings.cs",
+              "RelativeToolTip": "Accountant_JWT_implementation\\Model\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:16:56.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "D:\\workkk\\Accountant Project\\Accountant_JWT_Auth\\Accountant_JWT_implementation\\Accountant_JWT_implementation\\Model\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Accountant_JWT_implementation\\Model\\LoginResponse.cs",
+              "ToolTip": "D:\\workkk\\Accountant Project\\Accountant_JWT_Auth\\Accountant_JWT_implementation\\Accountant_JWT_implementation\\Model\\LoginResponse.cs",
+              "RelativeToolTip": "Accountant_JWT_implementation\\Model\\LoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:16:08.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\workkk\\Accountant Project\\Accountant_JWT_Auth\\Accountant_JWT_implementation\\Accountant_JWT_implementation\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Accountant_JWT_implementation\\Model\\User.cs",
+              "ToolTip": "D:\\workkk\\Accountant Project\\Accountant_JWT_Auth\\Accountant_JWT_implementation\\Accountant_JWT_implementation\\Model\\User.cs",
+              "RelativeToolTip": "Accountant_JWT_implementation\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:15:17.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
